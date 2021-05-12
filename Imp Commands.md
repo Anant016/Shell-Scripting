@@ -204,3 +204,5 @@ Syntax: sleep number [suffix]
 
 Common options: n/a
 
+
+#### Find all commands here - https://docs.cs.cf.ac.uk/notes/linux-shell-commands/
