@@ -64,7 +64,7 @@ Syntax: cd [option(s)] directory
 
 Common options: options aren’t typically used with cd
 
-#### mv — Move or rename directory
+### mv — Move or rename directory
 
 mv is used to move or rename directories. Without this command, you would have to individually rename each file which is tedious. mv allows you to do batch file renaming which can save you loads of time.
 
